@@ -1,4 +1,4 @@
-#get user input from cmd line
+#let user input from cmd line
 input_string = input()
 
 #print string
